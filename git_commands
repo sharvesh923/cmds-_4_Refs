@@ -1,4 +1,12 @@
 # Git and GitHub command cheat sheet
+## user config
+
+configuring user credientials
+
+```
+$ git config -globaluser.name "name"
+
+$ git config -globaluser.email "email address"
 
 ## init
 
